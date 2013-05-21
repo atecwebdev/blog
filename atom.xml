@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://atecwebdev.github.io/blog/atom.xml" rel="self"/>
-  <link href="http://atecwebdev.github.io/blog/"/>
-  <updated>2013-05-21T18:29:28-05:00</updated>
-  <id>http://atecwebdev.github.io/blog/</id>
+  <link href="http://atecwebdev.github.io//github/atom.xml" rel="self"/>
+  <link href="http://atecwebdev.github.io//github/"/>
+  <updated>2013-05-21T18:52:32-05:00</updated>
+  <id>http://atecwebdev.github.io//github/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
     
@@ -14,10 +14,19 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Zombie Ninjas Attack: A survivor's retrospective]]></title>
+    <link href="http://atecwebdev.github.io//github/blog/2013/05/21/zombie-ninjas-attack-a-survivors-retrospective/"/>
+    <updated>2013-05-21T18:51:00-05:00</updated>
+    <id>http://atecwebdev.github.io//github/blog/2013/05/21/zombie-ninjas-attack-a-survivors-retrospective</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[title]]></title>
-    <link href="http://atecwebdev.github.io/blog/blog/2013/05/21/title/"/>
+    <link href="http://atecwebdev.github.io//github/blog/2013/05/21/title/"/>
     <updated>2013-05-21T15:55:00-05:00</updated>
-    <id>http://atecwebdev.github.io/blog/blog/2013/05/21/title</id>
+    <id>http://atecwebdev.github.io//github/blog/2013/05/21/title</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>

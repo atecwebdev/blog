@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://atecwebdev.github.io/blog/sitemap.xml 
+Sitemap: http://atecwebdev.github.io//github/sitemap.xml 
